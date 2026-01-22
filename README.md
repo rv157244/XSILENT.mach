@@ -93,7 +93,7 @@ Ela foi dividida em aproximadamente 10 etapas, cobrindo:
 - Configuração visual (GUI) baseada no trabalho de:
   - [NullByte-7w7](https://github.com/NullByte-7w7)
 - Configurações gerais:
-  - [Hexsilent](https://github.com/rv157244)
+  - [Hexsilent水](https://github.com/rv157244)
 ## Considerações finais
 
 A xsilent風 representa um momento específico da minha evolução técnica.
