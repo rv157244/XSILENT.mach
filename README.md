@@ -16,3 +16,12 @@ O objetivo do projeto não é garantir anonimato, mas explorar decisões técnic
   - hardening
   - redes
   - containers (Docker)
+## O que este projeto não é
+
+- [❌] Não garante anonimato
+- [❌] Não substitui Tails, Whonix ou Qubes
+- [❌] Não é recomendado para uso operacional real
+- [❌] Não protege contra fingerprinting avançado
+- [❌] Não elimina riscos de erro humano
+
+Persistência, customização profunda e escolhas fora do padrão aumentam a superfície de fingerprint. Isso é uma decisão consciente, não uma falha ignorada.
