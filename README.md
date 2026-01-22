@@ -1,6 +1,6 @@
 # Xsilent風
 ![Status](https://img.shields.io/badge/status-experimental-orange)
-![Security](https://img.shields.io/badge/focus-security-critical-red)
+![Security](https://img.shields.io/badge/security-OS-_yellow)
 ![Privacy](https://img.shields.io/badge/privacy-threat--modeled-blueviolet)
 ![OS](https://img.shields.io/badge/base-Alpine_Linux-0D597F?logo=alpinelinux)
 ![Init](https://img.shields.io/badge/init-OpenRC-lightgrey)
