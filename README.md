@@ -12,6 +12,17 @@ A xsilent風 é um projeto experimental e educacional baseado em Alpine Linux, v
 O objetivo do projeto não é garantir anonimato, mas explorar decisões técnicas, seus custos e limitações, ao montar um ambiente enxuto com foco em privacidade operacional e isolamento de serviços.
 
   "Este projeto deve ser entendido como um laboratório prático, não como uma solução pronta ou recomendada para cenários de alto risco."
+## Documentação Conceitual (leia antes de instalar)
+
+Antes de seguir qualquer passo de instalação, é **fortemente recomendado**
+entender o modelo de ameaças, as decisões de projeto e as limitações assumidas.
+
+- ~ [Threat Model](docs/threat-model.md)
+- ~ [Decisions and Limitations](docs/decisions-and-limitations.md)
+- ~ [Components and Rationale](docs/components-and-rationale.md)
+- ~ [Security Policy](docs/SECURITY.md)
+
+---
 ## Objetivos do projeto
 
 - Explorar o Alpine Linux como base mínima para sistemas customizados
