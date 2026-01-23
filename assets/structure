@@ -1,0 +1,14 @@
+xsilent風/
+├── README.md
+├── docs/
+│   ├── installation.md
+│   ├── threat-model.md
+│   ├── network-flow.md
+│   └── decisions-and-limitations.md
+└── assets/
+    └── diagrams/
+        ├── system-overview.png
+        ├── network-flow.png
+        ├── threat-boundaries.png
+        ├── browser-risk-model.png
+        └── persistence-model.png
