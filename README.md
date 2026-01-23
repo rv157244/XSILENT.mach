@@ -98,7 +98,7 @@ Ela foi dividida em aproximadamente 10 etapas, cobrindo:
 >> Veja a seção de instalação completa e leia antes de executar.
 ## Créditos
 
-- Configuração visual (GUI) baseada no trabalho de:
+- Configuração visual (WM) baseada no trabalho de:
   - [NullByte-7w7](https://github.com/NullByte-7w7)
 - Configurações gerais:
   - [Hexsilent水](https://github.com/rv157244)
